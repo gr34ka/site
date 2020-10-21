@@ -1,5 +1,5 @@
 ui{
-	font-size: 25px
+	font-size: 300%
 }
 
 table{
@@ -16,6 +16,7 @@ uk{
 
 .topic {
 	font-size: 500%;
+	margin-top: 180px;
 }
 
 .dws-menu *{
